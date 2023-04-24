@@ -32,7 +32,7 @@
           <li><a href="generic.html">OVERVIEW</a></li>
           <li><a href="elements.html">DATA ANALYSIS</a></li>
           <li><a href="elements.html">ABOUT US</a></li>
-          <li><a href = "mailto: accessmsscientific@gmail.com">Send Email>CONTACT US</a></li>
+          <li><a href = "mailto: accessmsscientific@gmail.com">CONTACT US</a></li>
         </ul>
         <ul class="icons">
           <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
