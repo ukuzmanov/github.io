@@ -11,11 +11,11 @@
   </head>
   <body class="is-preload">
     <div id="wrapper">
-      <div id="bg"></div>
+      <div id="bg"><image src="experience.png" height="100%" width="100%" autoplay></div>
       <div id="overlay"></div>
       <div id="main"> <!-- Header -->
         <header id="header">
-          <h1><a href="index.html">Uros Kuzmanov</a></h1>
+          <h1>Uros Kuzmanov</h1>
           <p>Scientist &nbsp;•&nbsp; Father &nbsp;•&nbsp; Likes to putz around
             with website design</p>
           <nav>
@@ -41,11 +41,14 @@
               <li><a href="mailto:%20ukuzmanov@gmail.com" class="icon solid fa-envelope">
                   <div class="label">Email</div>
                 </a></li>
+               <li><a href="CV.pdf" class="icon solid fa-file-pdf">
+                  <div class="label">Full CV</div>
+                </a></li>
             </ul>
           </nav>
           <br>
           <div>
-            <h1><i>Present Roles</i></h1>
+            <h1><i>Past Experience</i></h1>
             <br>
             <h2>Research Associate</h2>
             <h3>Department of Physiology, University of Toronto<br>Ted Rogers Centre for Heart Research</h3>
