@@ -11,7 +11,7 @@
   </head>
   <body class="is-preload">
     <div id="wrapper">
-      <div id="bg"></div>
+      <div id="bg" style="background: #348cb2 url(misty.png)" height="100%" width="100%"></div>
       <div id="overlay"></div>
       <div id="main"> <!-- Header -->
         <header id="header">
@@ -41,19 +41,25 @@
               <li><a href="mailto:%20ukuzmanov@gmail.com" class="icon solid fa-envelope">
                   <div class="label">Email</div>
                 </a></li>
+              <li><a href="CV.pdf" class="icon solid fa-file-pdf">
+                  <div class="label">Full CV</div>
+                </a></li>
             </ul>
           </nav>
           <br>
-            <h2>Research Associate</h2>
-            <h3>Department of Physiology, University of Toronto<br>Ted Rogers Centre for Heart Research</h3>
-            <br>
-            <h2>Lecturer/Course Co-ordinator</h2>
-            <h3>PSL1040 - Systems Biology in Physiology<br>Department of Physiology, University of Toronto<br></h3>
-            <br>
+          <h2>Research Associate</h2>
+          <h3>Department of Physiology, University of Toronto<br>
+            Ted Rogers Centre for Heart Research</h3>
+          <br>
+          <h2>Lecturer/Course Co-ordinator</h2>
+          <h3>PSL1040 - Systems Biology in Physiology<br>
+            Department of Physiology, University of Toronto</h3>
+          <br>
           <h2>Co-founder</h2>
-            <h3>Access MS Scientific Inc.<br>Mass Spectrometry Facilitation and Consulting Services</h3>
-            <br>
-          	<br>
+          <h3>Access MS Scientific Inc.<br>
+            Mass Spectrometry Facilitation and Consulting Services</h3>
+          <br>
+          <br>
         </header>
         <!-- Footer -->
         <footer id="footer"> <span class="copyright">© Uros Kuzmanov •

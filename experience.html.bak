@@ -11,9 +11,10 @@
   </head>
   <body class="is-preload">
     <div id="wrapper">
-      <div id="bg"><image src="experience.png" height="100%" width="100%" autoplay></div>
+      <div id="bg" style="background: #348cb2 url(experience.png) center></div>
       <div id="overlay"></div>
-      <div id="main"> <!-- Header -->
+      <div id="main">
+        <!-- Header -->
         <header id="header">
           <h1>Uros Kuzmanov</h1>
           <p>Scientist &nbsp;•&nbsp; Father &nbsp;•&nbsp; Likes to putz around
@@ -41,7 +42,7 @@
               <li><a href="mailto:%20ukuzmanov@gmail.com" class="icon solid fa-envelope">
                   <div class="label">Email</div>
                 </a></li>
-               <li><a href="CV.pdf" class="icon solid fa-file-pdf">
+              <li><a href="CV.pdf" class="icon solid fa-file-pdf">
                   <div class="label">Full CV</div>
                 </a></li>
             </ul>
@@ -51,12 +52,13 @@
             <h1><i>Past Experience</i></h1>
             <br>
             <h2>Research Associate</h2>
-            <h3>Department of Physiology, University of Toronto<br>Ted Rogers Centre for Heart Research</h3>
+            <h3>Department of Physiology, University of Toronto<br>
+              Ted Rogers Centre for Heart Research</h3>
             <br>
             <h2>Lecturer/Course Co-ordinator</h2>
-            <h3>PSL1040 - Systems Biology in Physiology<br>Department of Physiology, University of Toronto<br></h3>
+            <h3>PSL1040 - Systems Biology in Physiology<br>
+              Department of Physiology, University of Toronto</h3>
             <br>
-            
           </div>
           <br>
           <br>
