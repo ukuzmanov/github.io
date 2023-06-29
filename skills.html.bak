@@ -11,14 +11,13 @@
   </head>
   <body class="is-preload">
     <div id="wrapper">
-      <div id="bg" style="background: #348cb2 url(misty.png) auto;"></div>
+      <div id="bg" style="background: #348cb2 url(misty.png) center"></div>
       <div id="overlay"></div>
       <div id="main">
         <!-- Header -->
         <header id="header">
-          <h1>Uros Kuzmanov</h1>
-          <p>Scientist &nbsp;•&nbsp; Father &nbsp;•&nbsp; Likes to putz around
-            with website design</p>
+          <h1>Skills</h1>
+          <p>•&nbsp; Destitutus ventis, remos adhibe &nbsp;•</p>
           <nav>
             <ul>
               <li><a href="index.html" class="icon solid fa-home">

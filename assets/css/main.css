@@ -112,7 +112,7 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
+		border-bottom: solid 1px;
 		color: inherit;
 		outline: 0;
 		text-decoration: none;
@@ -242,7 +242,7 @@ input, select, textarea {
 		opacity: 1;
 		position: fixed;
 		top: 0;
-		background-size: 100%;
+		
 		
 		
 		
@@ -592,7 +592,7 @@ input, select, textarea {
 			font-size: 1.5em;
 			font-weight: 900;
 			letter-spacing: -0.035em;
-			line-height: 1em;
+			line-height: 1.2em;
 			text-align: left;
 			max-width: 55%;
 			height: auto;
