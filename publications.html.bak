@@ -11,13 +11,13 @@
   </head>
   <body class="is-preload">
     <div id="wrapper">
-      <div id="bg" style="background: #348cb2 url(beach.png) top; height: 100%"></div>
+      <div id="bg" style="background: #348cb2 url(waves.png) top; height: 100%"></div>
       <div id="overlay"></div>
       <div id="main">
         <!-- Header -->
         <header id="header">
           <h1>Publications</h1>
-          <p>•&nbsp; Ars longa, vita brevis &nbsp;•</p>
+          <p>•&nbsp; Finis coronat opus &nbsp;•</p>
           <nav>
             <ul>
               <li><a href="index.html" class="icon solid fa-home">
@@ -47,17 +47,195 @@
             </ul>
           </nav>
           <br>
-          <h2>Research Associate</h2>
-          <h3>Department of Physiology, University of Toronto<br>
-            Ted Rogers Centre for Heart Research</h3>
+          <h4><a href="https://pubmed.ncbi.nlm.nih.gov/?term=uros+kuzmanov&amp;sort=date&amp;size=50">PubMed
+              Link</a><a></a></h4>
+          <h4><a href="https://orcid.org/0000-0002-3502-6986">ORCiD Link</a><a></a></h4>
+          <h4><a href="https://www.researchgate.net/profile/Uros-Kuzmanov">ResearchGate
+              Link</a><a></a></h4>
           <br>
-          <h2>Lecturer/Course Co-ordinator</h2>
-          <h3>PSL1040 - Systems Biology in Physiology<br>
-            Department of Physiology, University of Toronto</h3>
+          <h3> Under review, submitted and in preparation manuscripts </h3>
+          <h5><br>
+            Wu Q, Rafatian N, Wagner KT , Blamer J, Smith J, Okhovatian S,
+            Aggarwal P, Wang EY, Banerjee A, Zhao Y, Lu RX, Esquivel LP, Li CY,
+            Kuzmanov U , Mandla S, Landau S, Lai BF, Gramolini AO ,Veres T,
+            Vunjak-Novakovic G, Zhang B, Mossman K, Broeckel U, Radisic M. <u>Heart-on-a-chip
+              platform to model cardiac SARS-CoV-2 pathogenesis and therapeutic
+              screening.</u> Under revision in PNAS. <br>
+            <br>
+            Elbatarny M, Kuzmanov U, Eliathamby D, Chu V, Nedadur R, Reitz C,
+            Hamed O, Simmons C, Chung J, Wang B, Ouzounian M, Gramolini AO. <u>
+              Distinct Proteomic Profiles in Human Thoracic Aortic Aneurysm by
+              Segment May Drive Prognostic Differences: Conventional &amp;
+              Machine Learning Analysis.</u> Under review in Circulation. <br>
+            <br>
+            Reitz CJ, Kuzmanov U, Gramolini AO. <u>Data Integration of
+              Multi-omic Approaches in Cardiovascular Disease.</u> Accepted in
+            Proteomics.<br>
+            <br>
+            Callaghan NI, Durland LJ, Chen W, Kuzmanov U, Miranda MZ, Mirzaei Z,
+            Ireland RG, Wang EY, Wagner K, Kim MM, Audet J, Santerre JP,
+            Gramolini AO, Billia F, Radisic M, Mital S, Ellis J, Backx PH,
+            Simmons CA. <u>Advanced physiological maturation of iPSC-derived
+              human cardiomyocytes using an algorithm-directed optimization of
+            defined media components.</u> bioRxiv. Oct 12, 2022.  Under reivew in Nature Biotechnology.<br>
+            <br>
+            <br></h5>
+          
+          
+            <br>
+          <h3>Published</h3>
+          <h5><br>
+            Reitz CJ, Tavassoli M, Kim DH, Hadipour-Lakmehsari S, Shah S, Teng
+            ACT, Emili A, Oudit GY#, Kuzmanov U#, Gramolini AO#. <a href="https://pubmed.ncbi.nlm.nih.gov/37126683/">Integrative
+              proteomics and phosphoproteomics of failing human left ventricle
+              identifies etiology-specific phosphorylation of CTNNA3.</a> Proc
+            Natl Acad Sci USA . 2023 May 9. <br>
+            #co-corresponding author <br>
+            <br>
+            Yerra CG, Batchu SN, Kaur H, Kabir G, Liu Y, Advani SL, Sadeghian S,
+            Sedrak P, Billia F, Kuzmanov U, Gramolini AO, Connelly KA, Advani A.
+            <u>Induction of interferon-stimulated gene 15 (ISG15) by pressure
+              overload facilitates adverse ventricular remodeling.</u> J Clin
+            Invest . 2023 May 1. <br>
+            
+            Dufour CR, B’chir W, Perry MC, Xia H, Kuzmanov U, Gainullina A,
+            Dejgaard K, Scholtes C, Ouellet C, Zuo D, Sanguin-Gendreau V,
+            Guluzian C, Smith HW, Muller WJ, Audet-Walsh E, Sergushichev AA,
+            Emili A, Giguère V. <u>Integrated multi-omics analysis of adverse
+              cardiac remodeling and metabolic inflexibility upon ErbB2 and ERRa
+              deficiency.</u> Commun Biol . 2022 Sep 12. <br>
+            <br>
+            Kuzmanov U, Gawri R, Zelinka A, Russel KA, Gramolini AO, Kandel R. <u>Phosphoproteomic
+              analysis of chondrocytes after short-term exposure to inorganic
+              polyphosphate.</u> bioRxiv. July 31, 2021. <br>
+            <br>
+            Wang EY, Kuzmanov U, Smith J, Dou W, Rafatian N, Lai BFN, Lu RXZ, Wu
+            Q, Yazbeck J, Zhang XO, Sun Y, Gramolini AO, Radisic M. <u>An
+              Organ-on-a-Chip Model for Pre-Clinical Drug Evaluation in
+              Progressive Non-Genetic Cardiomyopathy.</u> J Mol Cell Cardiol.
+            2021 Jun 30;160:97-110. <br>
+            <br>
+            Wang EY, Kuzmanov U, Smith J, Dou W, Rafatian N, Lai BFN, Lu RXZ, Wu
+            Q, Yazbeck J, Zhang XO, Sun Y, Gramolini AO, Radisic M. <u>An
+              Organ-on-a-Chip Model for Pre-Clinical Drug Evaluation in
+              Progressive Non-Genetic Cardiomyopathy.</u> J Mol Cell Cardiol.
+            2021 Jun 30;160:97-110.<br>
+            <br>
+            Shah H, Hacker A, Langburt D, McFadden M, Zhang H, Kuzmanov U, Zhou
+            YQ, Dewar M, Hussain B, Hinz B, Gramolini AO, and Heximer SP. <u>Myocardial
+              infarction induces cardiac fibroblast transformation within
+              injured and non-injured regions of the mouse heart.</u> J Proteome
+            Res. 2021 May 7;20(5):2867-2881.<br>
+            <br>
+            Lee SH, Hadipour-Lakmehsari S, Kim DH, Kuzmanov U, Shah S, Kislinger
+            T, Sharma P, Oudit GY, Gramolini AO. <u>Bioinformatic analysis of
+              membrane and membrane-associated proteins in murine cardiomyocytes
+              and human myocardium.</u> Scientific Data. 2020 Dec 1;7(1):425. <br>
+            <br>
+            Lee SH, Kim DH, Kuzmanov U, Gramolini AO. <u>Membrane proteomic
+              profiling of the heart: Past, present and future.</u> American
+            Journal of Physiology – Heart and Circulatory Physiology. 2021 Jan
+            1;320(1):H417-H423. <br>
+            <br>
+            Kuzmanov U, Wang EY, Vanderlaan R, Kim DH, Lee SH,
+            Hadipour-Lakmehsari S, Guo H, Zhao Y, McFadden M, Sharma P, Billia
+            F, Radisic M, Gramolini A, Emili A. <u>Mapping signaling
+              perturbations in myocardial fibrosis via the integrative
+              phosphoproteomic profiling of tissue from diverse sources.</u>
+            Nature Biomed Eng. 2020 Sep;4(9):889-900. <br>
+            <br>
+            Hakem Zadeh F, Teng ACT, Kuzmanov U, Chambers PJ, Tupling AR,
+            Gramolini AO. <u>AKAP6 and phospholamban colocalize and interact in
+              HEK-293T cells and primary murine cardiomyocytes.</u> Physiol Rep.
+            2019 Jul;7(14): e14144. <br>
+            <br>
+            Hu LZ, Goebels F, Tan JH, Wolf E, Kuzmanov U, Wan C, Phanse S, Xu C,
+            Schertzberg M, Fraser AG, Bader GD, Emili A. <u>EPIC: software
+              toolkit for elution profile-based inference of protein complexes.
+              Nature Methods.</u> 2019 Aug;16(8):737-742. <br>
+            <br>
+            Hadipour-Lakmehsari S, Driouchi A, Lee SH, Kuzmanov U, Callaghan NA,
+            Heximer SP, Simmons CA, Yip CM, Gramolini AO. <u>Nanoscale
+              reorganization of sarcoplasmic reticulum calcium in
+              pressure-overload cardiac hypertrophy visualized by dSTORM.</u>
+            Scientific Reports. 2019 May 27;9(1):7867. <br>
+            <br>
+            Zhou J, Ma H, Wu Y, Lv X, Wang J, Liu S, Li D, Wang H, Yan Y, Luo N,
+            Li Q, Xu H, Zhang Q, Yu L, Guo H, Kuzmanov U, Di L, Wu Q, Duan J. <u>Lipidomic
+              profiling of subchronic As4S4 exposure identifies inflammatory
+              mediators as sensitive biomarkers in rats. </u>Metallomics. 2019
+            Mar 20;11(3):576-585. <br>
+            <br>
+            Ma H, Zhou J, Guo H, Shang E, Zhu Z, Kuzmanov U, Lv X, Di L, Yu B,
+            Wu Q, Duan J. <u>A strategy for the metabolomics-based screening of
+              active constituents and quality consistency control for natural
+              medicinal substance toad venom.</u> Anal Chim Acta. 2018 Nov
+            15;1031:108-118. <br>
+            <br>
+            Kuzmanov U, Guo H, Buchsbaum D, Cosme J, Isserlin R, Abbasi C,
+            Sharma P, Gramolini AO, Emili A. <u>Global phosphoproteomic
+              profiling reveals perturbed signaling in a mouse model of dilated
+              cardiomyopathy. </u>PNAS. 2016 Nov 1;113(44):12592-12597. <br>
+            <br>
+            Patel P, Kuzmanov U, Mital S. <u>Avoiding false discovery in
+              biomarker research.</u> BMC Biochem. 2016 Jul 30;17(1):17. <br>
+            <br>
+            Guo H, Garcia-Vedrenne AE, Isserlin R, Lugowski A, Morada A, Sun A,
+            Miao Y, Kuzmanov U, Wan C, Ma H, Foltz K, Emili A. <u>Phosphoproteomic
+              Network Analysis in the Sea Urchin Strongylocentrotus purpuratus
+              Reveals New Candidates in Egg Activation. </u>Proteomics. 2015
+            Dec;15(23-24):4080-95. <br>
+            <br>
+            Guo H, Isserlin R, Lugowski A, Kuzmanov U, Emili A. <u>Large-scale
+              label-free phosphoproteomics: from technology to data
+              interpretation.</u> Bioanalysis. 2014 Sep 6(18):2403-20. <br>
+            <br>
+            Kuzmanov U, Emili A. <u>Using phosphoproteomics to monitor
+              disregulated signaling networks in cardiac disease preceding heart
+              failure: where are we now?</u> Bioanalysis. 2013 Dec 5(23):2863-6.
+            <br>
+            <br>
+            Begcevic I, Kosanam H, Martínez-Morillo E, Dimitromanolakis A,
+            Diamandis P, Kuzmanov U, Hazrati LN, Diamandis EP. <u>Semiquantitative
+              proteomic analysis of human hippocampal tissues from Alzheimer's
+              disease and age-matched control brains.</u> Clin Proteomics. 2013
+            May 1;10(1):5. <br>
+            <br>
+            Kuzmanov U, Emili A. <u>Protein-protein interaction networks:
+              probing disease mechanisms using model systems. </u>Genome
+            Medicine. 2013 Apr 30;5(4):37. <br>
+            <br>
+            Kuzmanov U, Kosanam H, Diamandis EP. <u>The Sweet and Sour of
+              Serological Tumour Biomarker Quantification. </u>BMC Medicine.
+            2013 Feb 7;11:31. <br>
+            <br>
+            Kuzmanov U, Musrap N, Kosanam H, Batruch I, Smith CR, Soosaipillai
+            A, Diamandis EP. <u>Glycoproteomic identification of sialylated
+              proteins in ovarian cancer proximal fluids and cell lines.</u>
+            Clin Chem Lab Med. 2012 Dec 8:1-10. <br>
+            <br>
+            Bayani J, Kuzmanov U, Saraon P, Fung WA, Soosaipillai A, Squire JA,
+            Diamandis EP. <u>Copy-Number and Expression Alterations of miRNAs
+              in the Ovarian Cancer Cell Line OVCAR-3, and Its Impact on
+              Kallikrein 6 Protein Expression.</u> Clin Chem. 2013
+            Jan;59(1):296-305. <br>
+            <br>
+            Kuzmanov U, Smith CR, Soosaipillai A, Batruch I, Diamandis A,
+            Diamandis EP. <u>Separation of KLK6 glycoprotein subpopulations in
+              biological fluids by anion-exchange chromatography coupled to
+              ELISA.</u> Proteomics. 2012 Mar;12(6):799-809. <br>
+            <br>
+            Kuzmanov U, Jiang N, Smith CR, Soosaipillai A, Diamandis EP. <u>Differential
+              N-Glycosylation of kallikrein 6 derived from ovarian cancer cells
+              or the central nervous system. </u> Mol Cell Proteomics. 2009
+            Apr;8(4):791-8. <br>
+            <br>
+            Christensen KE, Patel H, Kuzmanov U, Mejia NR, Mackenzie RE. <u>Disruption
+              of the mthfd1 gene reveals a monofunctional
+              10-formyltetrahydrofolate synthetase in Mammalian mitochondria.</u>
+            J Biol Chem. (2005) 280(9):7597-602. <br>
+          </h5>
           <br>
-          <h2>Co-founder</h2>
-          <h3>Access MS Scientific Inc.<br>
-            Mass Spectrometry Facilitation and Consulting Services</h3>
           <br>
           <br>
         </header>

@@ -584,6 +584,7 @@ input, select, textarea {
 			max-width: 55%;
 			height: auto;
 			margin: auto;
+			line-height: 1.2em;
 			
 		
 		}
@@ -604,11 +605,30 @@ input, select, textarea {
 			font-size: 1em;
 			font-weight: 900;
 			letter-spacing: -0.035em;
-			line-height: 1em;
+			line-height: 1.2em;
 			text-align: left;
 			max-width: 55%;
 			height: auto;
 			margin: auto;
+
+
+		}
+			
+		#header h5 {
+			font-size: 1em;
+			font-weight: 500;
+			letter-spacing: -0.035em;
+			line-height: 1.2em;
+			text-align: left;
+			max-width: 55%;
+			height: auto;
+			margin: auto;
+
+		}
+
+		#header b {
+			
+			font-weight: 900;
 
 		}
 
@@ -1067,11 +1087,29 @@ input, select, textarea {
 			font-size: 0.5em;
 			font-weight: 900;
 			letter-spacing: -0.035em;
-			line-height: 1em;
+			line-height: 1.2em;
 			text-align: left;
 			max-width: 90%;
 			height: auto;
 			margin: auto;
+
+		}
+
+		#header h5 {
+			font-size: 0.75em;
+			font-weight: 400;
+			letter-spacing: -0.035em;
+			line-height: 1.2em;
+			text-align: left;
+			max-width: 90%;
+			height: auto;
+			margin: auto;
+
+		}
+
+		#header b {
+			
+			font-weight: 900;
 
 		}
 

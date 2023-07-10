@@ -11,10 +11,9 @@
   </head>
   <body class="is-preload">
     <div id="wrapper">
-      <div id="bg" style="background: #348cb2 url(desertnight.png) center; hieght: auto; width: 100%;"></div>
+      <div id="bg" style="background: #348cb2 url(desertnight.png) center;"></div>
       <div id="overlay"></div>
-      <div id="main">
-        <!-- Header -->
+      <div id="main"> <!-- Header -->
         <header id="header">
           <h1>Conferences</h1>
           <p>•&nbsp; Ars longa, vita brevis &nbsp;•</p>
@@ -47,17 +46,50 @@
             </ul>
           </nav>
           <br>
-          <h2>Research Associate</h2>
-          <h3>Department of Physiology, University of Toronto<br>
-            Ted Rogers Centre for Heart Research</h3>
-          <br>
-          <h2>Lecturer/Course Co-ordinator</h2>
-          <h3>PSL1040 - Systems Biology in Physiology<br>
-            Department of Physiology, University of Toronto</h3>
-          <br>
-          <h2>Co-founder</h2>
-          <h3>Access MS Scientific Inc.<br>
-            Mass Spectrometry Facilitation and Consulting Services</h3>
+          <h3> Invited Speaker </h3>
+          <h5>
+<br>2020.  Global phosphoproteomic profiling of signaling pathway aberrations in clinical samples, animal and organ-on-a-chip models.  Keystone Symposium “Charting a New Course for Heart Failure: From Discovery to Data”, Keystone, CO, USA.
+<br><br>	2018. (with Hadipour-Lakmehsari, S) Global phosphoproteomic profiling reveals perturbed cardiac signaling in dilated cardiomyopathy patients. HUPO 2018, 17th World Annual Congress of the Human Proteome Organization, Orlando, FL, USA.
+<br><br>2017.  Next Generation Cardiac Phosphoproteomics: from sample preparation to data interpretation in a mouse model of dilated cardiomyopathy. 9th International Symposium On Enabling Technologies (ETP 2017).  Ottawa, ON, Canada.
+<br><br>2016.  Arendi Core Consulting and R&D overview.  9th Shandong Overseas Talent Exchange and Cooperation Fair / Jinan Overseas High-Caliber Talent Fair and Project Conference.  Dezhou/Jinan, Shandong Province, China.
+<br><br>2016.  Profiling of signaling cascade changes in heart pathology through phosphoproteomics.  TRCHR Research Symposium, Toronto, ON, Canada.
+<br><br>2011. Separation of KLK6 glycoprotein subpopulations in biological fluids by an ELISA-coupled anion exchange method. 4th International Symposium on Kallikreins and Kallikrein-related Peptidases, Rhodes, Greece
+<br><br>2009. Differential N-glycosylation of Kallikrein 6 in Ovarian Cancer. Molecular Pathology Rounds, Samuel Lunenfeld Research Institute, Toronto, Canada
+<br><br>2009. Differential N-glycosylation of kallikrein 6 in ovarian cancer ascites and cerebrospinal fluid. 100th Annual American Association of Cancer Researchers (AACR) Meeting, Denver, United States
+<br><br>2009. Differential N-glycosylation of kallikrein 6 in ovarian cancer ascites and cerebrospinal fluid. 3rd International Symposium on Kallikreins and Kallikrein-related Peptidases, Munich, Germany
+
+            <br>
+            <br></h5><br>
+          <h3>
+            Poster Presentations and Abstracts
+          </h3>
+          <h5>
+<br>Reitz CJ, Tavassoli M, Kim DH, Hadipour-Lakmehsari S, Shah S, Teng ACT, Emili A, Oudit GY, Kuzmanov U, Gramolini AO. (2022) Integrative proteomic and phosphoproteomic analysis identifies etiology-specific phosphorylation patterns in the failing human heart. XLI Annual Meeting of the International Society for Heart Research (ISHR)-North American Section. Winnipeg, Manitoba, Canada.
+<br><br>Di Paola M, Kuzmanov U, Reitz CJ, Teng ACT, Gramolini AO. (2022) Sarco(endo)plasmic reticulum membrane protein REEP5 regulates subcellular structure and function in the heart. XLI Annual Meeting of the International Society for Heart Research (ISHR)-North American Section. Winnipeg, Manitoba, Canada.
+<br><br>Kuzmanov U, Reitz CJ, Tavassoli M, Kim DH, Hadipour-Lakmehsari S, Shah S, Emili A, Oudit GY, Gramolini AO. (2022) Integrative proteomic and phosphoproteomic analysis of ischemic and dilated cardiomyopathy cardiac tissue from human explants. XXIV World Congress International Society for Heart Research (ISHR). Berlin, Germany.
+<br><br>Di Paola M, Kuzmanov U, Reitz CJ, Teng ACT, Gramolini AO. (2022) Sarco(endo)plasmic reticulum membrane protein REEP5 regulates subcellular structure and function in the heart. Frontiers in Physiology 2022, 42nd Annual Research Symposium, Department of Physiology, University of Toronto.
+<br><br>Reitz CJ, Tavassoli M, Kim DH, Hadipour-Lakmehsari S, Shah S, Lee SH, Teng ACT, Emili A, Oudit GY, Kuzmanov U, Gramolini AO. (2021) Identification of Novel Phosphoprotein Signaling Pathways in Human Dilated Cardiomyopathy by Integrative Proteomic and Phosphoproteomic Analysis. Basic Cardiovascular Sciences Scientific Sessions 2021 (virtual).
+<br><br>Di Paola M, Kuzmanov U, Teng ACT, Lee SH, Reitz CJ, Gramolini AO. (2021) Analysis of Receptor Expression-Enhancing Protein 5 (REEP5) on cardiac structural development and function using model systems. Frontiers in Physiology 2021, 41st Annual Research Symposium, Department of Physiology, University of Toronto.
+<br><br>Kuzmanov U, Wang E, Vanderlaan R, Guo H, Isserlin R, Hadipour-Lakmehsari S, Sharma P, Billia F, Radisic M, Gramolini AO, Emili A.  (2019).  Integrative Phosphoproteomic Profiling of Clinical Samples, Animal and Organ-On-A-Chip Models: Mapping Fibrotic Signaling Cascades. Keystone Symposium - Proteomics and its Application to Translational and Precision Medicine, Stockholm, Sweden. 
+<br><br>Kuzmanov U, Vanderlaan, Guo H, Hadipour-Lakmehsari S, Sharma P, Billia P, Emili A, Gramolini AO. (2018).  Global Human and Mouse Phosphoproteomic Profiling of Signaling Pathway Aberrations in Hypertrophic Cardiomyopathy.  HUPO 2018, 17th World Annual Congress of the Human Proteome Organization, Orlando, FL, USA.
+<br><br>Kim DH, Kuzmanov U, Hadipour-Lakmehsari S, Emili A, Oudit G, Gramolini AO. (2018) Phosphopeptide Enrichment and Analysis of Human Ischemic Cardiomyopathic Tissues Reveal Infarct Versus Non-Infarct Unique signaling Pathways.  HUPO 2018, 17th World Annual Congress of the Human Proteome Organization, Orlando, FL, USA.
+<br><br>Wang EY, Kuzmanov U, Zhao Y, Rafatian N, Gramolini AO, Emili A, Backx P, Radisic M.  (2018). A Combined Strategy of Human Induced Pluripotent Stem Cells, Organ-on-a-chip Engineering and Precision Proteomics Analysis for Cardiac Disease Study.  5th TERMIS World Congress 2018, Kyoto, Japan.
+<br><br>Kuzmanov U, Vanderlaan R, Hadipur-Lakmehsari S, Guo H, Buchsbaum D, Cosme J, Abbasi C, Isserlin R, Sharma P, Billia F, Emili A, Gramolini AO.  (2017). Phosphoproteomic profiling of heart tissue:  from mouse model to patient samples. 16th Human Proteome Organisation World Congress, Dublin, Ireland 
+<br><br>Kuzmanov U, Guo H, Buchsbaum D, Cosme J, Abbasi C, Isserlin R, Sharma P, Gramolini AO, Emili A.  (2017). Phosphoproteomics-based elucidation of disturbed signaling pathways in a mouse model of dilated cardiomyopathy.  Heart Failure Update 2017, Toronto, Canada
+<br><br>Kuzmanov U, Guo H, Buchsbaum D, Cosme J, Abbasi C, Isserlin R, Sharma P, Gramolini AO, Emili A.  (2017). Cardiac phosphoproteomics: profiling of a mouse model of dilated cardiomyopathy.  Canadian National Proteomics Network Annual Meeting, Toronto, Canada 
+<br><br>Kuzmanov U, Musrap N, Kosanam H, Smith CR, Batruch I, Diamandis EP. (2012). Glycoproteomic identification and characterization of potential glycoprotein biomarkers in ovarian cancer proximal fluids. American Society for Mass Spectrometry (ASMS) Annual Conference, Vancouver, Canada
+<br><br>Kuzmanov U, Musrap N, Kosanam H, Smith CR, Diamandis EP. (2011). Proteomic identification of sialic acid containing glycoproteins in ovarian cancer proximal fluids and cell line supernatants. Canadian Cancer Research Conference, Toronto, Canada
+<br><br>Bayani J, Kuzmanov U, Smith CR, Batruch I, Squire JA, Diamandis EP. (2011). Mechanisms of KLK6 Expression and Biomarker Discovery in Ovarian Carcinomas: An Integrated Genomic, microRNA (miRNA) and Proteomic Profiling Approach. Canadian Cancer Research Conference, Toronto, Canada
+<br><br>Kuzmanov U, Smith CR, Soosaipillai A, Batruch I, Diamandis A, Diamandis EP. (2011). ELISA coupled anion exchange method for separation of KLK6 glycoprotein subpopulations in biological fluids. 102nd Annual American Association for Cancer Researchers Meeting, Orlando, United States
+<br><br>Bayani J, Kuzmanov U, Smith CR, Batruch I, Presvelos J, Graham C, Squire JA, Diamandis EP. (2011).  Integrated genomic, microRNA (miRNA) and proteomic profiling by stable isotope labeling with amino acids in cell culture (SILAC) of ovarian carcinoma for biomarker discovery. 102nd Annual American Association for Cancer Researchers Meeting, Orlando, United States
+<br><br>Kuzmanov U, Smith CR, Soosaipillai A, Diamandis EP. (2010). N-glycosylation patterns of kallikrein 6 in ovarian cancer. 5th Canadian Conference on Ovarian Cancer Research, Toronto, Canada
+<br><br>Bayani J, Kuzmanov U, Batruch I, Cho CK, Smith CR, Marrano P, Graham C, Butzow R, Katsaros D, Lin L, Zheng Y, Squire JA, Diamandis EP. (2010). Integrated Genomic MicroRNA (miRNA) and Proteomic Profiling of Ovarian Carcinoma for Biomarker Discovery. 5th Canadian Conference on Ovarian Cancer Research, Toronto, Canada
+<br><br>Bayani J, Kuzmanov U, Batruch I, Cho CK, Smith CR, Marrano P, Graham C, Butzow R, Katsaros D, Lin L, Zheng Y, Squire JA, Diamandis EP. (2010). Integrated Genomic, MicroRNA (miRNA) and Proteomic Profiling of Ovarian Carcinoma for Biomarker Discovery. 101th Annual American Association for Cancer Research Meeting, Washington, United States
+<br><br>Kuzmanov U, Jiang N, Smith CR, Soosaipillai A, Diamandis EP. (2008). Kallikrein 6 N-glycosylation in ovarian cancer ascites and cerebrospinal fluids. ASBMB meeting, Post-Translational Modifications:  Detection and Physiological Evaluation, Lake Tahoe, United States
+<br><br>Kuzmanov U, Jiang N, Soosaipillai A, Diamandis EP.  (2007). Differential glycosylation of ovarian cancer derived kallikrein 6.  2nd International Symposium on Kallikreins and Kallikrein-related peptidases, Santorini Island, Greece
+<br><br>Kuzmanov U, Jiang N, Soosaipillai A, Diamandis EP.  (2007). Differential glycosylation of ovarian cancer derived kallikrein 6 and its potential use as a biomarker.  5th General Meeting of the International Proteolysis Society. Patras, Greece
+
+          </h5>
           <br>
           <br>
         </header>
